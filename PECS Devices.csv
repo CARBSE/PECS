@@ -1,0 +1,666 @@
+device,definition,function,heat transfer/ air delivery mode,mobility,
+cooling air terminal device (blowers),"pecs type: thermal + IAQ
+ function: cooling and ventilation
+ heat transfer mode: convection
+ air delivery mode: outdoor air
+ mobility: semi detached
+ device category: air blowers
+ model-specific features: none",cooling + ventilation,convection + outdoor air,semi detached,
+cooling air terminal device (on desk round based movable panel),"pecs type: thermal + IAQ
+ function: cooling and ventilation
+ heat transfer mode: convection
+ air delivery mode: outdoor air
+ mobility: semi detached
+ device category: air terminal device
+ model-specific features: movable arm duct placed on desk top with round front panel for air delivery",cooling + ventilation,convection + outdoor air,semi detached,
+cooling air terminal device (under desk),"pecs type: thermal + IAQ
+ function: cooling and ventilation
+ heat transfer mode: convection
+ air delivery mode: outdoor air
+ mobility: semi detached
+ device category: air terminal device
+ model-specific features: under desk duct placed near desk edge",cooling + ventilation,convection + outdoor air,semi detached,
+cooling and ventilation portable device,"pecs type: thermal + IAQ
+ function: cooling and ventilation
+ heat transfer mode: convection
+ air delivery mode: outdoor air
+ mobility: semi detached
+ device category: portable device
+ model-specific features: draws in air from room near the under floor hvac supply",cooling + ventilation,convection + outdoor air,detached,
+cooling blanket,"pecs type: thermal
+ function: cooling
+ heat transfer mode: conduction
+ mobility: detached
+ device category: blanket
+ model-specific features: none",cooling,conduction,detached,
+cooling chair,"pecs type: thermal
+ function: cooling
+ heat transfer mode: conduction
+ mobility: detached
+ device category: chair
+ model-specific features: thermoelectric cooling coil",cooling,conduction,detached,
+cooling chair (fans on headrest),"pecs type: thermal
+ function: cooling
+ heat transfer mode: convection
+ mobility: detached
+ device category: chair
+ model-specific features: fans on headrest",cooling,convection,detached,
+cooling chair (fans on backrest),"pecs type: thermal
+ function: cooling
+ heat transfer mode: convection
+ mobility: detached
+ device category: chair
+ model-specific features: fans on backrest",cooling,convection,detached,
+cooling chilled beam,"pecs type: thermal
+ function: cooling
+ heat transfer mode: radiation
+ mobility: building semi detached
+ device category: chilled beam
+ model-specific features: localized air delivery chilled beam",cooling,radiation,building semi detached,
+cooling desk fan,"pecs type: thermal
+ function: cooling
+ heat transfer mode: convection
+ mobility: detached
+ device category: desk fan
+ model-specific features: none",cooling,convection,detached,
+cooling fan (geofence based tracking),"pecs type: thermal
+ function: cooling
+ heat transfer mode: convection
+ mobility: detached
+ device category: desk fan
+ model-specific features: targeted airflow delivery using trackers and sensors",cooling,convection,detached,
+cooling fan (in keyboard tray),"pecs type: thermal
+ function: cooling
+ heat transfer mode: convection
+ mobility: detached
+ device category: fan
+ model-specific features: small fans integrated into keyboard tray",cooling,convection,detached,
+cooling fan (standing),"pecs type: thermal
+ function: cooling
+ heat transfer mode: convection
+ mobility: detached
+ device category: fan
+ model-specific features: standing fan with air delivery near torso area",cooling,convection,detached,
+dual thermal management portable device (thermoelectric micro air conditioner),"pecs type: thermal
+ function: dual thermal management
+ heat transfer mode: convection
+ mobility: detached
+ device category: portable device
+ model-specific features: portable unit with thermoelectric heat exchanger, hot air dissipation fans and air delivery centrifugal fans",cooling,convection,detached,
+cooling hat (frozen gel pack),"pecs type: thermal
+ function: cooling
+ heat transfer mode: conduction
+ mobility: wearable
+ device category: cooling hat
+ model-specific features: mesh around the head girth to ventilate. a white and attachable face-shade with pocket to insert a frozen gel pack.",cooling,conduction,wearable,
+cooling jacket (evaporative cooling),"pecs type: thermal
+ function: cooling
+ heat transfer mode: evaporation
+ mobility: wearable
+ device category: jacket
+ model-specific features: evaporative cooling",cooling,evaporation,wearable,
+cooling jacket (fan assisted),"pecs type: thermal
+ function: cooling
+ heat transfer mode: convection
+ mobility: wearable
+ device category: jacket
+ model-specific features: fans embedded within the jacket at torso and back area",cooling,convection,wearable,
+"cooling jacket (water tubes with ice pack, pump and batteries in back pack)","pecs type: thermal
+ function: cooling
+ heat transfer mode: conduction
+ mobility: wearable
+ device category: jacket
+ model-specific features: water tubes with circulating cold water ; ice pack, pump and batteries in back pack",cooling,conduction,wearable,
+cooling jacket (with air cooling and moisture removal chamber),"pecs type: thermal
+ function: cooling
+ heat transfer mode: conduction
+ mobility: wearable
+ device category: jacket
+ model-specific features: the cooling jacket features an air cooling and moisture removal chamber (acmr), where two blowers pump air from the left and right sides into a tree-like branching tubing system that distributes airflow to the upper chest and back. this assembly, defined as part a, facilitates internal air circulation within the protective clothing. cooling power is supplied by part b, an external te cooling unit attached via magnets. the hot side of the te unit dissipates heat to the environment. inside the acmr, spindle-shaped fins are arranged in a spiral to direct airflow. in cooling mode, warm, humid air enters the acmr through two inlets, exchanges heat with the fins, and condenses moisture on the cold inner surface. the condensed water is expelled through an outlet, collected in a small container, and connected to the water disposal system inside the protective clothing. dried air then circulates back through the tubing system to cool the body.",cooling,conduction,wearable,
+"cooling jacket and pants(fan assisted, pcm)","pecs type: thermal
+ function: cooling
+ heat transfer mode: conduction + convection
+ mobility: wearable
+ device category: jacket and pants
+ model-specific features: pcm for conductive cooling, fans on the rear side for sweat evaporation",cooling,conduction + convection,wearable,
+"cooling mattress (thermoelectric, water pipes)","pecs type: thermal
+ function: cooling
+ heat transfer mode: conduction
+ mobility: detached
+ device category: mattress
+ model-specific features: silicone pipes inside the mattress with circulating water chilled thermoelectrically",cooling,conduction,detached,
+cooling portable device (thermoelectric micro heatpump),"pecs type: thermal
+ function: cooling
+ heat transfer mode: convection
+ mobility: detached
+ device category: portable device
+ model-specific features: thermoelectric micro heatpump",cooling,convection,detached,
+cooling portable device (micro vapor compression system),"pecs type: thermal
+ function: cooling
+ heat transfer mode: convection
+ mobility: detached
+ device category: portable device
+ model-specific features: micro vapour compression system",cooling,convection,detached,
+cooling pad,"pecs type: thermal
+ function: cooling
+ heat transfer mode: conduction
+ mobility: detached
+ device category: pads/ cushions
+ model-specific features: none",cooling,conduction,detached,
+cooling radiant panels (desk partition mounted),"pecs type: thermal
+ function: cooling
+ heat transfer mode: radiation
+ mobility: detached
+ device category: radiant panels
+ model-specific features: desk partition mounted radiant panels",cooling,radiation,detached,
+cooling radiant panels with fan (desk partition mounted),"pecs type: thermal
+ function: cooling
+ heat transfer mode: radiation
+ mobility: detached
+ device category: cooling radiant panels with fans and angled plates
+ model-specific features: desk partition mounted radiant panels with fans and angled plates to direct flow",cooling,radiation,detached,
+cooling radiator,"pecs type: thermal
+ function: cooling
+ heat transfer mode: radiation
+ mobility: detached
+ device category: radiator
+ model-specific features: none",cooling,radiation,detached,
+cooling portable device (mini heat pump with pcm material for heat rejection),"pecs type: thermal
+ function: cooling
+ heat transfer mode: convection
+ mobility: detached
+ device category: portable device
+ model-specific features: a ductless, portable mini heat pump with pcm material for heat rejection, capable of delivering up to 8 hours of conditioned air without emitting waste heat during operation. it provides air approximately 5 k cooler than ambient using a 150 w mini heat pump, which transfers condenser heat to an onboard pcm container. the pcm solidifies either through the heat pump’s reverse cycle post-cooling or via thermo-syphon mode.",cooling,convection,detached,roco
+cooling scarf (frozen gel pack),"pecs type: thermal
+ function: cooling
+ heat transfer mode: conduction
+ mobility: wearable
+ device category: scarf
+ model-specific features: scarf with frozen gel pack sealed within",cooling,conduction,wearable,
+cooling shirt (nano pe material),"pecs type: thermal
+ function: cooling
+ heat transfer mode: none
+ mobility: wearable
+ device category: shirt
+ model-specific features: nanoporous polyethylene material shirt which is nearly transparent to the thermal infrared radiation emitted by the human body, allowing body heat to escape into the surrounding environment. clothing made from this material can provide passive cooling without any energy input.",cooling,,wearable,
+cooling vest,"pecs type: thermal
+ function: cooling
+ heat transfer mode: conduction
+ mobility: wearable
+ device category: vest/jacket
+ model-specific features: none",cooling,conduction,wearable,
+cooling vest (pulsating flow),"pecs type: thermal
+ function: heating
+ heat transfer mode: conduction
+ mobility: wearable
+ device category: vest
+ model-specific features: cooling tubes within jacket connected to a pump and ferrofluid valve to pulsate/control the flow",heating,conduction,wearable,
+cooling vest (fan assisted),"pecs type: thermal
+ function: cooling
+ heat transfer mode: convection
+ mobility: wearable
+ device category: vest/jacket
+ model-specific features: fans stitched in the vest to provide convective cooling",cooling,convection,wearable,
+cooling vest (frozen gel pack),"pecs type: thermal
+ function: cooling
+ heat transfer mode: conduction
+ mobility: wearable
+ device category: vest/jacket
+ model-specific features: frozen gel packs",cooling,conduction,wearable,
+cooling vest (frozen gel stripes),"pecs type: thermal
+ function: cooling
+ heat transfer mode: conduction
+ mobility: wearable
+ device category: vest/jacket
+ model-specific features: frozen gel stripes",cooling,conduction,wearable,
+cooling vest (ice packs),"pecs type: thermal
+ function: cooling
+ heat transfer mode: conduction
+ mobility: wearable
+ device category: vest/jacket
+ model-specific features: ice packs",cooling,conduction,wearable,
+cooling vest (pcm + dessicant),"pecs type: thermal
+ function: cooling
+ heat transfer mode: conduction
+ mobility: wearable
+ device category: vest/jacket
+ model-specific features: pcm + dessicant",cooling,conduction,wearable,
+cooling vest (pcm + fan),"pecs type: thermal
+ function: cooling + convection
+ heat transfer mode: conduction + evaporation
+ mobility: wearable
+ device category: vest/jacket
+ model-specific features: pcm + fan",cooling,conduction + convection,wearable,
+cooling vest (pcm),"pecs type: thermal
+ function: cooling
+ heat transfer mode: conduction
+ mobility: wearable
+ device category: vest/jacket
+ model-specific features: pcm",cooling,conduction,wearable,
+cooling air terminal device (via horizontal deskedge grile),"pecs type: thermal
+ function: cooling
+ heat transfer mode: convection
+ mobility: detached
+ device category: air terminal device
+ model-specific features: room air is drawn through a duct toward a cooling coil containing chilled water. fans then direct the cooled air through a horizontal desk-edge grille, delivering it near the occupant’s torso.",cooling,convection,detached,
+cooling wrist pad,"pecs type: thermal
+ function: cooling
+ heat transfer mode: conduction
+ mobility: wearable
+ device category: wrist pad
+ model-specific features: none",cooling,conduction,wearable,
+"cooling portable device (electric, installed in beltpack)","pecs type: thermal
+ function: cooling
+ heat transfer mode: convection
+ mobility: detached
+ device category: portable device
+ model-specific features: ambient air cooling device with direct current air blower, battery set, air plenuma nd control plenum small enough to fit in beltpack",cooling,convection,detached,
+dual thermal management chilled beam (jet cone feature),"pecs type: thermal
+ function: dual thermal management
+ heat transfer mode: convection
+ mobility: building semi detached
+ device category: chilled beam
+ model-specific features: jet cone feature",dual thermal management,convection,building semi detached,
+dual thermal management wrist band (thermoelectric),"pecs type: thermal
+ function: dual thermal management
+ heat transfer mode: conduction
+ mobility: detached
+ device category: wrist band
+ model-specific features: thermoelectric",dual thermal management,conduction,detached,
+evaporative cooling device,"pecs type: thermal
+ function: cooling
+ heat transfer mode: convection + evaportion
+ mobility: detached
+ device category: evaporative cooling device
+ model-specific features: none",cooling,convection + evaporation,detached,
+heating floor tiles,"pecs type: thermal
+ function: heating
+ heat transfer mode: conduction
+ mobility: attached
+ device category: floor tiles
+ model-specific features: none",heating,conduction,attached,
+heating air blowers,"pecs type: thermal
+ function: heating
+ heat transfer mode: convection + radiation
+ mobility: detached
+ device category: radiator with air blowers
+ model-specific features: none",heating,convection + radiation,detached,
+dual thermal management chair,"pecs type: thermal
+ function: dual thermal management
+ heat transfer mode: conduction
+ mobility: detached
+ device category: chair
+ model-specific features: none",dual thermal management,conduction,detached,
+"dual thermal management chair (electrically heated, fan cooled)","pecs type: thermal
+ function: dual thermal management
+ heat transfer mode: conduction + convection
+ mobility: detached
+ device category: chair
+ model-specific features: coils for electric heating, fans in backrest for cooling",dual thermal management,conduction + convection,detached,
+dual thermal management portable device (fan and heater with predictive control),"pecs type: thermal
+ function: dual thermal management
+ heat transfer mode: convection + radiation
+ mobility: detached
+ device category: dual thermal management portable device
+ model-specific features: fan and heater connected with sensors and actuators with model predictive control algorithm for automatic operation",dual thermal management,convection + radiation,detached,spot
+dual thermal management movable partition wall,"pecs type: thermal
+ function: dual thermal management
+ heat transfer mode: radiation
+ mobility: detached
+ device category: movable partition wall
+ model-specific features: none",dual thermal management,radiation,detached,
+dual thermal management wristpad,"pecs type: thermal
+ function: dual thermal management
+ heat transfer mode: conduction
+ mobility: detached
+ device category: heating and cooling wristpad
+ model-specific features: none",dual thermal management,conduction,detached,
+heating chair (arm rest),"pecs type: thermal
+ function: heating
+ heat transfer mode: conduction
+ mobility: detached
+ device category: chair
+ model-specific features: chair with heating arm rest",heating,conduction,detached,
+heating chair (backrest),"pecs type: thermal
+ function: heating
+ heat transfer mode: conduction
+ mobility: detached
+ device category: chair
+ model-specific features: chair with heating backrest",heating,conduction,detached,
+heating chair,"pecs type: thermal
+ function: heating
+ heat transfer mode: conduction
+ mobility: detached
+ device category: chair
+ model-specific features: none",heating,conduction,detached,
+heating chair (fan assisted),"pecs type: thermal
+ function: heating
+ heat transfer mode: convection
+ mobility: detached
+ device category: chair
+ model-specific features: fans installed on backrest",heating,convection,detached,
+heating chair (heated backrest and seat),"pecs type: thermal
+ function: heating
+ heat transfer mode: conduction
+ mobility: detached
+ device category: chair
+ model-specific features: heated backrest and seat",heating,conduction,detached,
+heating chair (seat),"pecs type: thermal
+ function: heating
+ heat transfer mode: conduction
+ mobility: detached
+ device category: chair
+ model-specific features: chair with heated seat",heating,conduction,detached,
+heating cushion (theroelectric),"pecs type: thermal
+ function: heating
+ heat transfer mode: conduction
+ mobility: detached
+ device category: cushion
+ model-specific features: theroelectric",heating,conduction,detached,
+heating desk mat,"pecs type: thermal
+ function: heating
+ heat transfer mode: conduction
+ mobility: detached
+ device category: desk mat
+ model-specific features: none",heating,conduction,detached,
+heating floor mat,"pecs type: thermal
+ function: heating
+ heat transfer mode: conduction
+ mobility: detached
+ device category: floor mat
+ model-specific features: none",heating,conduction,detached,
+heating floor tiles,"pecs type: thermal
+ function: heating
+ heat transfer mode: conduction
+ mobility: detached
+ device category: floor tiles
+ model-specific features: none",heating,conduction,detached,
+heating foot warmer (bulb and reflector),"pecs type: thermal
+ function: heating
+ heat transfer mode: radiation
+ mobility: detached
+ device category: foot warmer
+ model-specific features: bulb and reflector installed in a wooden box where feet can be placed",heating,radiation,detached,
+heating gloves,"pecs type: thermal
+ function: heating
+ heat transfer mode: conduction
+ mobility: wearable
+ device category: gloves
+ model-specific features: thermoelectric gloves",heating,conduction,wearable,
+heating insole (thermoelectric),"pecs type: thermal
+ function: heating
+ heat transfer mode: conduction
+ mobility: wearable
+ device category: insole
+ model-specific features: thermoelectric insoles to place inside shoes",heating,conduction,wearable,
+heating insole (chemically heated),"pecs type: thermal
+ function: heating
+ heat transfer mode: conduction
+ mobility: detached
+ device category: heating insoles
+ model-specific features: chemical",heating,conduction,wearable,
+heating jacket (electrical),"pecs type: thermal
+ function: heating
+ heat transfer mode: conduction
+ mobility: detached
+ device category: jacket
+ model-specific features: electrical",heating,conduction,wearable,
+heating kneecaps (electrically and chemically heated),"pecs type: thermal
+ function: heating
+ heat transfer mode: conduction
+ mobility: wearable
+ device category: kneecaps
+ model-specific features: electrically and chemically heated",heating,conduction,wearable,
+heating lamp,"pecs type: thermal
+ function: heating
+ heat transfer mode: radiation
+ mobility: detached
+ device category: lamp
+ model-specific features: none",heating,radiation,detached,
+heating pads,"pecs type: thermal
+ function: heating
+ heat transfer mode: conduction
+ mobility: detached
+ device category: pads/cushions
+ model-specific features: none",heating,conduction,detached,
+heating palm warmer (contact based),"pecs type: thermal
+ function: heating
+ heat transfer mode: conduction
+ mobility: detached
+ device category: heating palm warmer
+ model-specific features: metalic heated surface",heating,conduction,detached,
+heating foil (underdesk),"pecs type: thermal
+ function: heating
+ heat transfer mode: radiation
+ mobility: detached
+ device category: foil
+ model-specific features: underdesk",heating,radiation,detached,
+heating radiant panel (floor based),"pecs type: thermal
+ function: heating
+ heat transfer mode: radiation
+ mobility: detached
+ device category: radiant panel
+ model-specific features: floor based",heating,radiation,detached,
+heating radiant panel (under desk),"pecs type: thermal
+ function: heating
+ heat transfer mode: radiation
+ mobility: detached
+ device category: radiant panel
+ model-specific features: under desk",heating,radiation,detached,
+heating radiant panel (wall),"pecs type: thermal
+ function: heating
+ heat transfer mode: radiation
+ mobility: detached
+ device category: radiant panel
+ model-specific features: a movable wall constructed out of radiant panels",heating,radiation,detached,
+heating radiator,"pecs type: thermal
+ function: heating
+ heat transfer mode: radiation
+ mobility: detached
+ device category: radiator
+ model-specific features: none",heating,radiation,detached,
+heating radiator (fan assisted),"pecs type: thermal
+ function: heating
+ heat transfer mode: radiation + convection
+ mobility: detached
+ device category: radiator
+ model-specific features: radiator with fans for convective and radiative heat transfer",heating,radiation + convection,detached,
+heating scarf,"pecs type: thermal
+ function: heating
+ heat transfer mode: conduction
+ mobility: detached
+ device category: scarf
+ model-specific features: none",heating,conduction,wearable,
+heating seat (electrical),"pecs type: thermal
+ function: heating
+ heat transfer mode: conduction
+ mobility: detached
+ device category: seat
+ model-specific features: electrically heated seat",heating,conduction,detached,
+heating seat (made out of barrel),"pecs type: thermal
+ function: heating
+ heat transfer mode: conduction + radiation + convection
+ mobility: detached
+ device category: seat
+ model-specific features: wooden barrels with charcoal, charcoal ash and brazier placed inside",heating,conduction + radiation + convection,detached,
+heating sleeping bag,"pecs type: thermal
+ function: heating
+ heat transfer mode: conduction
+ mobility: detached
+ device category: sleeping bag
+ model-specific features: none",heating,conduction,detached,
+heating steering wheel,"pecs type: thermal
+ function: heating
+ heat transfer mode: conduction
+ mobility: vehicles
+ device category: steering wheel
+ model-specific features: none",heating,conduction,vehicles,
+heating trousers,"pecs type: thermal
+ function: heating
+ heat transfer mode: conduction
+ mobility: wearable
+ device category: trousers
+ model-specific features: none",heating,conduction,wearable,
+heating vest,"pecs type: thermal
+ function: heating
+ heat transfer mode: conduction
+ mobility: wearable
+ device category: vest
+ model-specific features: none",heating,conduction,wearable,
+"heating vest (chest back, electric)","pecs type: thermal
+ function: heating
+ heat transfer mode: conduction
+ mobility: wearable
+ device category: vest/jacket
+ model-specific features: chest back, electric",heating,conduction,wearable,
+"heating vest (electric, aerogel insulation, graphene heating)","pecs type: thermal
+ function: heating
+ heat transfer mode: conduction
+ mobility: wearable
+ device category: vest/jacket
+ model-specific features: electric, aerogel insulation, graphene heating",heating,conduction,wearable,
+heating vest (electrically and chemically heated),"pecs type: thermal
+ function: heating
+ heat transfer mode: conduction
+ mobility: wearable
+ device category: vest/jacket
+ model-specific features: electrically and chemically heated",heating,conduction,wearable,
+heating wristpad,"pecs type: thermal
+ function: heating
+ heat transfer mode: conduction
+ mobility: wearable
+ device category: wristpad
+ model-specific features: none",heating,conduction,wearable,
+ventilation air terminal device (under floor),"pecs type: IAQ
+ function: ventilation
+ heat transfer mode: outdoor air
+ mobility: semi detached
+ device category: air terminal device
+ model-specific features: under floor",ventilation,outdoor air,semi detached,
+ventilation with localised exhaust,"pecs type: IAQ
+ function: ventilation
+ air delivery mode: assistive device
+ mobility: semi detached
+ device category: localised exhaust
+ model-specific features: none",ventilation,assistive device,semi detached,
+ventilation air terminal device (grille),"pecs type: IAQ
+ function: ventilation
+ air delivery mode: outdoor air
+ mobility: semi detached
+ device category: air terminal device
+ model-specific features: grille",ventilation,outdoor air,semi detached,
+"ventilation air terminal device (desk based, multijet nozzle)","pecs type: IAQ
+ function: ventilation
+ air delivery mode: outdoor air
+ mobility: semi detached
+ device category: air terminal device
+ model-specific features: mounted on desk, multijet nozzle",ventilation,outdoor air,semi detached,
+ventilation air terminal device (confluent jets supply diffuser),"pecs type: IAQ
+ function: ventilation
+ air delivery mode: outdoor air
+ mobility: semi detached
+ device category: air terminal device
+ model-specific features: confluent jets supply diffuser",ventilation,outdoor air,semi detached,
+ventilation air terminal device (desk based),"pecs type: IAQ
+ function: ventilation
+ air delivery mode: air treatment
+ mobility: detached
+ device category: air terminal device
+ model-specific features: desk based",ventilation,air treatment,detached,
+ventilation air terminal device (directed control using fuzzy logic),"pecs type: IAQ
+ function: ventilation
+ air delivery mode: outdoor air
+ mobility: semi detached
+ device category: air terminal device
+ model-specific features: directed control using fuzzy logic",ventilation,outdoor air,semi detached,
+"ventilation air terminal device (multi jet, body movement based)","pecs type: IAQ
+ function: ventilation
+ air delivery mode: outdoor air
+ mobility: semi detached
+ device category: air terminal device
+ model-specific features: multi jet, body movement based",ventilation,outdoor air,semi detached,
+ventilation air terminal device (wall mounted),"pecs type: IAQ
+ function: ventialtion
+ air delivery mode: outdoor air
+ mobility: semi detached
+ device category: air terminal device
+ model-specific features: wall mounted",ventialtion,outdoor air,semi detached,
+"cooling and ventilation air terminal device (desk based, ductless)","pecs type: thermal + IAQ
+ function: cooling + ventilation
+ heat transfer mode: convection
+ air delivery mode: air treatment
+ mobility: semi detached
+ device category: air terminal device 
+ model-specific features: desk based, ductless, relies on displacment ventilation of background ventilation system to extract cool air from floor level and deliver near occupant's breathing zone",ventilation + cooling,air treatment + convection,semi detached,
+ventilation air terminal device (multiple supply and exhaust units),"pecs type: IAQ
+ function: ventilation
+ heat transfer mode: outdoor air
+ mobility: semi detached
+ device category: air terminal device
+ model-specific features: multiple supply and exhaust units",ventilation,outdoor air,semi detached,
+ventilation airplane seat,"pecs type: IAQ
+ function: ventilation
+ air delivery mode: assistive device
+ mobility: semi detached
+ device category: localised exhaust
+ model-specific features: none",ventilation,assistive device,semi detached,
+ventilation and cooling air terminal device (under desk),"pecs type: thermal
+ function: ventialtion and cooling
+ heat transfer mode: convection + outdoor air
+ mobility: semi detached
+ device category: air terminal device
+ model-specific features: under desk",ventialtion and cooling,convection + outdoor air,semi detached,
+ventilation and cooling desk system (personalised ventilation air terminal device + horizontal desk grille + foot cooling coil),"pecs type: thermal + IAQ
+ function: ventilation + cooling
+ heat transfer mode: convection + radiation
+ air delivery mode: treated air
+ mobility: detached
+ device category: desk system
+ model-specific features: room air is drawn through a floor-level duct and passes through a cooling coil before being circulated by fans. the cooled air is then directed through a duct connected to a horizontal desk-edge grille, providing targeted cooling for the torso. meanwhile, a portion of the air flows upward through an activated carbon filter before being delivered near occupant's face via an air terminal nozzle. the cooling coil near the foot also provides radiative cooling near the feet",ventilation + cooling,convection + radiation + air treatment,detached,
+cooling seats,"pecs type: thermal
+ function: cooling
+ heat transfer mode: conduction
+ mobility: detached
+ device category: seat
+ model-specific features: a thermoelectric cooling device is placed inside the seat.. the tec-cooled gas travels to the climate-controlled seat’s internal air tunnels, which in turn cool the occupant’s back and buttocks.",cooling,conduction,detached,
+ventilation mattress,"pecs type: IAQ
+ function: ventilation
+ air delivery mode: outdoor air
+ mobility: semi detached
+ device category: mattress
+ model-specific features: the surface of the vm was padded with an
+ air permeable polyester fibre. the inside of the vm consisted of a water permeable polyester mesh. a fan, placed outside the test room, was used to move air through the mattress (through the mesh and the polyester fibre). the air, after passing through the mattress, was exhausted out of the room from the top of the mattress through exhaust ducts placed at its left and right sides.",ventilation,outdoor air,semi detached,
+ventilation chair fans,"pecs type: IAQ
+ function: ventilation
+ air delivery mode: assistive device
+ mobility: detached
+ device category: chair fan
+ model-specific features: fans mounted on arm rest of chairs to blow air upwards, to shift the equilibrium particle accumulation height out of the breathing zone, and create an envelope of clean air around the occupant",ventilation,assistive device,detached,
+ventilation ceiling unit,"pecs type: IAQ
+ function: ventilation
+ air delivery mode: outdoor air
+ mobility: semi detached
+ device category: ceiling unit
+ model-specific features: personalized ventilation unit mounted on ceiling to deliver fresha ir",ventilation,convection,semi detached,
+ventilation chair fan (suction fans),"pecs type: IAQ
+ function: ventilation
+ mobility: assistive device
+ device category: chair fan
+ model-specific features: suction fans installed on chair armrest for suction of fresh air released from ceiling personalised ventilation device",ventilation,assistive device,detached,
+ventilation desk fan (suction fans),"pecs type: IAQ
+ function: ventilation
+ mobility: assistive device
+ device category: desk fan
+ model-specific features: suctions fans near table tray for suction of fresh air released from ceiling personalised ventilation device",ventilation,assistive device,detached,
+ventilation helmet,"pecs type: IAQ
+ function: ventilation
+ air delivery mode: outdoor air
+ mobility: detached
+ device category: helmet
+ model-specific features: clean inlet air is extracted through the back of the helmet and then pushed through the front to create an air barrier so polluted air cannot enter the breathign zone",ventilation,outdoor air,detached,
+ventilation air terminal device (bed side),"pecs type: IAQ
+ function: ventilation
+ air delivery mode: treated air
+ mobility: semi detached
+ device category: air terminal device
+ model-specific features: ventilation duct positioned to supply treated air 0.4m above the sleeping occupant connected to an ahu",ventilation,treated air,semi detached,
